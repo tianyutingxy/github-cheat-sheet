@@ -1,4 +1,4 @@
 # Summary
 
-* [Cheat-Sheet-CN](README.zh-cn.md)
+* [Introduction](README.md)
 
