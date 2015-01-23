@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Cheat-Sheet-CN
+* [Cheat-Sheet-CN](README.zh-cn.md)
 
